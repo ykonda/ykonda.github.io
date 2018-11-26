@@ -1,17 +1,17 @@
 ---
-title: ""
-layout: splash
+title: "Geburtstag ist nur einmal im Jahr"
+layout: single
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/fest_und_flauschig.jpg
+  overlay_image: /assets/images/kartoffel_und_kawaii.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Code of Konda"
+      url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "xFest und Flauschig die Radio show mit janni und olli und sowieso. ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "EY hier ist Konda&Flinzer, ich bin zurueck und ich hab bock auf euch. Fuer mich gibts in Deutschland nur eine Geburtstagsparty die richtig real ist. KARTOFFEL UND KAWAII!"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
