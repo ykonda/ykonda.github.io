@@ -1,13 +1,11 @@
 ---
-title: "Richtig real"
+title: "Richtig real ist das"
 layout: splash
 classes: wide
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/kartoffel_und_kawaii.jpg
+  image: /assets/images/kartoffel_und_kawaii.jpg
   actions:
     - label: "Code of Konda"
       url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
