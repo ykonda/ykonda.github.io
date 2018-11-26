@@ -1,6 +1,7 @@
 ---
-title: "Geburtstag ist nur einmal im Jahr"
-layout: single
+title: "Richtig real"
+layout: splash
+classes: wide
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -11,7 +12,7 @@ header:
     - label: "Code of Konda"
       url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "EY hier ist Konda Flinzer, ich bin zurueck und ich hab bock auf euch. Fuer mich gibts in Deutschland nur eine Geburtstagsparty die richtig real ist. KARTOFFEL UND KAWAII!"
+excerpt: "EY hier ist Konda Flinzer, ich bin zurueck und ich hab bock auf euch. Fuer mich gibts in Deutschland nur eine Geburtstagsparty die so richtig real ist. KARTOFFEL UND KAWAII!"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
