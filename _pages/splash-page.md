@@ -10,9 +10,9 @@ header:
     - label: "Code of Konda"
       url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
   caption: "Photo credit: [**Tallo**](https://www.youtube.com/watch?v=XMyeUL8NRXs)"
-excerpt: "Kawaii & Kartoffel mit Yuria Konda und Finn Linzer. Die preisgekrOEnte, verblUEffend fabelhafte, grenzenlos fantastische Party fUEr sie, ihn und es. Haltet euch den 15. Dezember FREI!"
-intro: 
-  - excerpt: 'ey hier ist konda flinzer, ich bin zurueck und ich hab bock auf euch. fuer mich gibts in deutschland nur eine geburtstagsparty die so richtig real ist. kartoffel und kawaii!'
+excerpt: ""
+intro: ''
+  - excerpt: 'Kawaii & Kartoffel mit Yuria Konda und Finn Linzer. Die preisgekrOEnte, verblUEffend fabelhafte, grenzenlos fantastische Party fUEr sie, ihn und es. Haltet euch den 15. Dezember FREI!'
 ---
 
 {% include feature_row id="intro" type="center" %}
