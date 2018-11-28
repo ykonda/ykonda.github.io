@@ -2,7 +2,7 @@
 title: "Richtig real ist das"
 layout: splash
 classes: wide
-permalink: /splash-page/
+permalink: /deine-einladung/
 date: 2016-03-23T11:48:41-04:00
 header:
   image: /assets/images/YuFI.jpg
