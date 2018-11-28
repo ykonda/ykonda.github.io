@@ -28,7 +28,6 @@ intro:
 <!-- end www.htmlcommentbox.com -->
 
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -46,7 +45,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDRtIG8VPf8TS_Yl28-OGchRgKDH6v8J3c&callback=myMap"></script>
 
 </body>
 </html>
