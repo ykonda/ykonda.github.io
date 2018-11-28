@@ -16,7 +16,7 @@ intro:
     preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
     sie, ihn und es.  
 
-    Haltet euch den Abend des 15. Dezember FREI! Weitere Informationen folgen bald.'
+    Haltet euch den Abend des 15. Dezember FREI! Veranstaltungsort ist eine Wohnung beim Berliner Tor, genauere Adresse folgt noch. Weitere Informationen folgen bald.'
 ---
 
 {% include feature_row id="intro" type="center" %}
