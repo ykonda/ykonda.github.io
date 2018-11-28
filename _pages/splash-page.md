@@ -10,7 +10,7 @@ header:
     - label: "Code of Konda"
       url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
   caption: "Photo credit: [**Tallo**](https://www.youtube.com/watch?v=XMyeUL8NRXs)"
-excerpt: "an excerpt"
+excerpt: "27. Geburtstag. Eine Party und eine Webseite, das machen jetzt alle so."
 intro: 
   - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
     preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
