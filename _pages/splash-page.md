@@ -1,5 +1,5 @@
 ---
-title: "Richtig real ist das"
+title: ""
 layout: splash
 classes: wide
 permalink: /deine-einladung/
