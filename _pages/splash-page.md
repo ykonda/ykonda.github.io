@@ -15,6 +15,7 @@ intro:
   - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
     preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
     sie, ihn und es.  
+
     Haltet euch den Abend des 15. Dezember FREI!'
 ---
 
