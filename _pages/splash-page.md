@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Tallo**](https://www.youtube.com/watch?v=XMyeUL8NRXs)"
 excerpt: "an excerpt"
 intro: 
-  - excerpt: 'Kawaii & Kartoffel mit Yuria Konda und Finn Linzer. Die preisgekrOEnte, verblUEffend fabelhafte, grenzenlos fantastische Party fUEr sie, ihn und es. Haltet euch den 15. Dezember FREI!'
+  - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für sie, ihn und es. Haltet euch den 15. Dezember FREI!'
 ---
 
 {% include feature_row id="intro" type="center" %}
