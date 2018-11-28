@@ -5,7 +5,7 @@ classes: wide
 permalink: /deine-einladung/
 date: 2016-03-23T11:48:41-04:00
 header:
-  image: /assets/images/DSC02748.GIF
+  image: /assets/images/YuFI.jpg
   actions:
     - label: "Code of Konda"
       url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
