@@ -25,7 +25,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Gästebuch"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "deine-einladung"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/autofahrt.jpg
