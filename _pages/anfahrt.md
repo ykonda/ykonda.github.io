@@ -17,6 +17,10 @@ gallery:
     image_path: /assets/images/autofahrt.jpg
     alt: "500 euro verstoffen"
     title: "Franzbrötchen"
+  - url: /assets/images/DSC02748.GIF
+    image_path: /assets/images/DSC02748.GIF
+    alt: "haiiijja"
+    title: "haii"
 intro: 
   - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
     preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
