@@ -2,7 +2,7 @@
 title: ""
 layout: splash
 classes: wide
-permalink: /anfahrt/
+permalink: /gallery
 date: 2016-03-23T11:48:41-04:00
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
