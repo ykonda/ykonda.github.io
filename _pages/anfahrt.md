@@ -2,34 +2,13 @@
 title: ""
 layout: splash
 classes: wide
-permalink: /gallery
+permalink: /anfahrt
 date: 2016-03-23T11:48:41-04:00
-gallery:
-  - url: /assets/images/squad.JPG
-    image_path: /assets/images/squad.JPG
-    alt: "Dawai!Dawai!"
-    title: "Dont be a spy."
-  - url: /assets/images/tallo.jpg
-    image_path: /assets/images/tallo.jpg
-    alt: "Tallo-San"
-    title: "Tallo-San Hai"
-  - url: /assets/images/autofahrt.jpg
-    image_path: /assets/images/autofahrt.jpg
-    alt: "500 euro verstoffen"
-    title: "Franzbrötchen"
-  - url: /assets/images/DSC02748.GIF
-    image_path: /assets/images/DSC02748.GIF
-    alt: "haiiijja"
-    title: "haii"
 intro: 
-  - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
-    preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
-    sie, ihn und es.  
-
-    Haltet euch den Abend des 15. Dezember FREI! Weitere Informationen folgen bald.'
+  - excerpt: 'Am besten kommt ihr zu uns über die Haltestelle Berliner Tor oder Burgstraße, wir wollen die Adresse jedoch nicht öffentlich ins Internet stellen und daher fragt uns bitte, wenn ihr nicht wisst wie ihr zu uns findet.
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 

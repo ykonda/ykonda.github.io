@@ -20,14 +20,14 @@ feature_row:
     alt: "placeholder image 1"
     title: "Anfahrt"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "deine-einladung"
+    url: "anfahrt"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/tallo.jpg
     alt: "placeholder image 2"
     title: "Gästebuch"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "deine-einladung"
+    url: "gastbuch"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/autofahrt.jpg
