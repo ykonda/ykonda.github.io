@@ -21,6 +21,8 @@ feature_row:
     title: "Anfahrt"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "deine-einladung"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/tallo.jpg
     alt: "placeholder image 2"
     title: "Gästebuch"
@@ -32,6 +34,8 @@ feature_row:
     title: "Gallery"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "deine-einladung"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
