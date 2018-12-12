@@ -4,13 +4,6 @@ layout: splash
 classes: wide
 permalink: /anfahrt/
 date: 2016-03-23T11:48:41-04:00
-header:
-  image: /assets/images/DSC02748.GIF
-  actions:
-    - label: "Code of Konda"
-      url: "https://www.youtube.com/watch?v=XMyeUL8NRXs"
-  caption: "Photo credit: [**Tallo**](https://www.youtube.com/watch?v=XMyeUL8NRXs)"
-excerpt: "an excerpt"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
