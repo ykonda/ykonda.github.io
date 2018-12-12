@@ -5,15 +5,15 @@ classes: wide
 permalink: /gallery
 date: 2016-03-23T11:48:41-04:00
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: /assets/images/squad.JPG
     image_path: /assets/images/squad.JPG
     alt: "Dawai!Dawai!"
     title: "Dont be a spy."
-  - url: /assets/images/unsplash-gallery-image-2.jpg
+  - url: /assets/images/tallo.jpg
     image_path: /assets/images/tallo.jpg
     alt: "Tallo-San"
     title: "Tallo-San Hai"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+  - url: /assets/images/autofahrt.jpg
     image_path: /assets/images/autofahrt.jpg
     alt: "500 euro verstoffen"
     title: "Franzbrötchen"
