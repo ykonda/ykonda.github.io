@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/autofahrt.jpg
     title: "Gallery"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "deine-einladung"
+    url: "gallery"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
