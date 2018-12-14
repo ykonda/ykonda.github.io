@@ -9,7 +9,7 @@ intro:
 ---
 
 
-Am besten kommt ihr zu uns über die Haltestelle Berliner Tor oder Burgstraße. Wir feiern in der Klaus-Groth-Straße, wollen die exakte Adresse jedoch nicht öffentlich ins Internet stellen. Daher fragt uns bitte über Whatsapp oder Telegram, wenn ihr nicht wisst wie ihr zu uns findet.
+Am besten kommt ihr zu uns über die Haltestelle Berliner Tor oder Burgstraße. Wir feiern bei Yuria, wollen die exakte Adresse jedoch nicht öffentlich ins Internet stellen. Daher fragt uns bitte über Whatsapp oder Telegram, wenn ihr nicht wisst wie ihr zu uns findet.
 
 
 <figure class="half">
