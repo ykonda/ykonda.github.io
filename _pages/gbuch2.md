@@ -12,7 +12,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-### Folge den Link um mit uns was schönes zu malen
+
+### Folge dem <a href="https://www.multidraw.app/app/?room=KartoffelKawaii">Link</a> oder klicke aufs Bild um mit uns was schönes zu malen.
 
 Das **Passwort** lautet: kawaii
 
