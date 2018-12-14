@@ -18,7 +18,7 @@ intro:
 Das **Passwort** lautet: kawaii
 
 <figure>
-    <a href="https://www.multidraw.app/app/?room=KartoffelKawaii"><img src="/assets/images/initcanvas.png  width="250" height="250""></a>
+    <a href="https://www.multidraw.app/app/?room=KartoffelKawaii"><img src="/assets/images/initcanvas.png  width="250" height="250"></a>
         <figcaption>Folge dem Link um zum Malbereich zu gelangen.</figcaption>
 </figure>
 oder hinterlasse uns eine Nachricht.
