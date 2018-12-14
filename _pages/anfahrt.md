@@ -13,7 +13,7 @@ Am besten kommt ihr zu uns über die Haltestelle Berliner Tor oder Burgstraße. 
 
 
 <figure class="half">
-        <img src="/assets/images/strasse.png">
+    <a href="https://goo.gl/maps/7msqG26bVpT2"><img src="/assets/images/strasse.png"></a>
         <figcaption>Klaus-Groth-Straße.</figcaption>
 
 
