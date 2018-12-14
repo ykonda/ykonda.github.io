@@ -12,14 +12,14 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-#Folge den Link um mit uns was schönes zu malen
+### Folge den Link um mit uns was schönes zu malen
 
 
 <figure class="half">
     <a href="https://www.multidraw.app/app/?room=KartoffelKawaii"><img src="/assets/images/initcanvas.png"></a>
         <figcaption>Folge dem Link um zum Malbereich zu gelangen.</figcaption>
 
-# Oder hinterlasse uns eine Nachricht
+### Oder hinterlasse uns eine Nachricht
 
 
 <!-- begin wwww.htmlcommentbox.com -->
