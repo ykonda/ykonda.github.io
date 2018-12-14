@@ -19,7 +19,7 @@ feature_row:
   - image_path: assets/images/squad.JPG
     alt: "placeholder image 1"
     title: "Anfahrt"
-    excerpt: "Wo wir uns genau treffen erfahrt ihr von uns. Wir geben trotzdem einen groben Überblick."
+    excerpt: "Die Feier findet bei Yuria statt."
     url: "anfahrt"
     btn_label: "Read More"
     btn_class: "btn--primary"
