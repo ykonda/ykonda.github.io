@@ -14,25 +14,25 @@ excerpt: "27. Geburtstag. Eine Party und eine Webseite, das machen jetzt alle so
 intro: 
   - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
     preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
-    sie, ihn und es.'
+    sie, ihn und es. Los gehts so ab **19:00**.'
 feature_row:
   - image_path: assets/images/squad.JPG
     alt: "placeholder image 1"
     title: "Anfahrt"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Wo wir uns genau treffen erfahrt ihr von uns. Wir geben trotzdem einen groben Überblick."
     url: "anfahrt"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/tallo.jpg
     alt: "placeholder image 2"
     title: "Gästebuch"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "gastbuch"
+    excerpt: "Trage dich ins Gästebuch ein. Bist du kreativ? Dann mal was schönes."
+    url: "gastbucher"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/autofahrt.jpg
     title: "Gallery"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ein paar Bilder der Veranstaltung, wie früher Fotoalben bei SchülerVZ nur ohne SchülerVZ."
     url: "gallery"
     btn_label: "Read More"
     btn_class: "btn--primary"
