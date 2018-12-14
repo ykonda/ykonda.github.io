@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/tallo.jpg
     alt: "placeholder image 2"
     title: "Gästebuch"
-    excerpt: "Trage dich ins Gästebuch ein. Bist du kreativ? Dann mal was schönes."
+    excerpt: "Trage dich ins Gästebuch ein. Bist du kreativ? Dann zeichne was schönes."
     url: "gastbucher"
     btn_label: "Read More"
     btn_class: "btn--primary"
