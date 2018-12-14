@@ -20,6 +20,8 @@ Das **Passwort** lautet: kawaii
         <figcaption>Folge dem Link um zum Malbereich zu gelangen.</figcaption>
 
 oder hinterlasse uns eine Nachricht
+{: style="text-align: left;"}
+
 
 
 <!-- begin wwww.htmlcommentbox.com -->
