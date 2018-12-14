@@ -12,9 +12,6 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-<p data-height="265" data-theme-id="0" data-slug-hash="dwMbLK" data-default-tab="js" data-user="wolfskraut" data-pen-title="HTML5 Drawing Pad" class="codepen">See the Pen <a href="https://codepen.io/wolfskraut/pen/dwMbLK/">HTML5 Drawing Pad</a> by FinnL (<a href="https://codepen.io/wolfskraut">@wolfskraut</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
