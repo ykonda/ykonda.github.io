@@ -2,7 +2,7 @@
 title: ""
 layout: splash
 classes: wide
-permalink: /gastbuch
+permalink: /gastbuch/
 date: 2016-03-23T11:48:41-04:00
 intro: 
   - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
