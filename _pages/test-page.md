@@ -30,7 +30,7 @@ feature_row:
     url: "gastbuch"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/gallery.jpg
+  - image_path: /assets/images/autofahrt.jpg
     title: "Gallery"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "gallery"
