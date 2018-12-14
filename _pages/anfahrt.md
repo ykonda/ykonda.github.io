@@ -15,12 +15,14 @@ intro:
 
 Apply the `half` class like so to display two images side by side that share the same caption.
 
-```html
-<figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/strasse.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-```
+And you'll get something that looks like this:
+
+<figure class="third">
+        <img src="/images/street.png">
+        <figcaption>Three images.</figcaption>
+#### Two Up
+
+
 
 And you'll get something that looks like this:
 
