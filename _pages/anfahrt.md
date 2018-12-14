@@ -5,24 +5,17 @@ classes: wide
 permalink: /anfahrt
 date: 2016-03-23T11:48:41-04:00
 intro: 
-  - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
-    preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
-    sie, ihn und es.'
+  - excerpt: 'Am besten kommt ihr zu uns über die Haltestelle Berliner Tor oder Burgstraße, wir wollen die Adresse jedoch nicht öffentlich ins Internet stellen und daher fragt uns bitte, wenn ihr nicht wisst wie ihr zu uns findet.'
 ---
 
 
-#### Two Up
+Am besten kommt ihr zu uns über die Haltestelle Berliner Tor oder Burgstraße, wir wollen die Adresse jedoch nicht öffentlich ins Internet stellen und daher fragt uns bitte, wenn ihr nicht wisst wie ihr zu uns findet.
 
-Apply the `half` class like so to display two images side by side that share the same caption.
-
-And you'll get something that looks like this:
 
 <figure class="half">
         <img src="/assets/images/strasse.png">
         <figcaption>Klaus-Groth-Straße.</figcaption>
-#### Two Up
 
 
 
-And you'll get something that looks like this:
 
