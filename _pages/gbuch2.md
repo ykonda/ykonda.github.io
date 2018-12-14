@@ -13,13 +13,14 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ### Folge den Link um mit uns was schönes zu malen
+
 Das **Passwort** lautet: kawaii
 
-<figure class="half">
+<figure>
     <a href="https://www.multidraw.app/app/?room=KartoffelKawaii"><img src="/assets/images/initcanvas.png"></a>
         <figcaption>Folge dem Link um zum Malbereich zu gelangen.</figcaption>
 
-oder hinterlasse uns eine Nachricht
+oder hinterlasse uns eine Nachricht.
 {: style="text-align: left;"}
 
 
