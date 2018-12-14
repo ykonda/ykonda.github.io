@@ -17,8 +17,8 @@ Apply the `half` class like so to display two images side by side that share the
 
 And you'll get something that looks like this:
 
-<figure class="third">
-        <img src="/images/street.png">
+<figure class="half">
+        <img src="/assets/images//street.png">
         <figcaption>Three images.</figcaption>
 #### Two Up
 
