@@ -13,7 +13,7 @@ gallery:
     image_path: /assets/images/tallo.jpg
     alt: "Tallo-San"
     title: "Tallo-San Hai"
-  - url: /assets/images/autofahrt.jpg
+  - url: /assets/images/gallery.jpg
     image_path: /assets/images/autofahrt.jpg
     alt: "500 euro verstoffen"
     title: "Franzbrötchen"
